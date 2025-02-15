@@ -1,4 +1,4 @@
-login.tailscale.com/
-controlplane.tailscale.com/
-log.tailscale.com/
-log.tailscale.io/
+login.tailscale.com
+controlplane.tailscale.com
+log.tailscale.com
+log.tailscale.io
