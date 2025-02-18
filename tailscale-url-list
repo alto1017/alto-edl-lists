@@ -2,3 +2,4 @@ login.tailscale.com/
 controlplane.tailscale.com/
 log.tailscale.com/
 log.tailscale.io/
+pkgs.tailscale.com/
